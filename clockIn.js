@@ -18,6 +18,9 @@ var wRite = function(){
 //}
 
 var addComponent = function(){
-    document.createElement("table");
+    var newDiv = document.createElement("div");
+    var currentDiv = document.getElementById("shell");
+    document.body.insertBefore(newDiv, currentDiv);
+    
     
 }

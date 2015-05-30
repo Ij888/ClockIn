@@ -1,4 +1,4 @@
-body{font-family: arial;}
+body{font-family: arial; font-size: 1.5em;}
 
 #shell{
     border: 5px solid black;
@@ -11,20 +11,18 @@ body{font-family: arial;}
 }
 
 #timeIn{
-    background-color: black;
-    text-align: center;
-    margin-top: 5px; 
-    padding: 10px;
-    font-size: 1.85em;
-    color: white;
     margin-bottom: 50px;
 }
 
 #createElement{
+    
+}
+
+.buttonStyles{
     background-color: black;
     text-align: center;
     margin-top: 5px; 
     padding: 10px;
-    font-size: 1.85em;
     color: white;
+    font-size: 1.025em;
 }
