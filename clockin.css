@@ -1,1 +1,11 @@
-,
+#shell{border: 5px solid black;
+    padding: 10px;
+}
+#timeIn{background-color: black;
+        text-align: center;
+    margin-top: 5px; 
+    padding: 10px;
+    font-family: arial;
+    font-size: 1.85em;
+    color: white;
+}
